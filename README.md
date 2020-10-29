@@ -5,7 +5,8 @@ This is a simple basic calculator with memory functions similar to a small handh
 * % = Percent
 
 
-*My GitHub's space
-[GitHub](http://github.com/cedugenio)
-[GitHub](http://github.com/acmasters)
+*My GitHub's space*
+
+* (http://github.com/cedugenio)
+* (http://github.com/acmasters)
 
